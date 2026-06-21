@@ -1,2 +1,14 @@
 # focusigame-pages
-HTML page archive and documentation
+
+页面归档与发布记录
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
